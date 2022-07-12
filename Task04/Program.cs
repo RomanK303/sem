@@ -18,5 +18,5 @@ int num3 = Convert.ToInt32(Console.ReadLine());
 // {
 //      if (numbers[index]>max);
 //      }
-Console.Write. Convert Math.Max ();
+
 // Console.ReadKey();
