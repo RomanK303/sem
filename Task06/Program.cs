@@ -9,11 +9,11 @@
 Console.Write("Введите число:  ");
 int num = Convert.ToInt32(Console.ReadLine());
 
-if (num % 2)
+if (num % 2 == 0)
 {
-    Console.WriteLine("ДА");
+    Console.WriteLine(" чет");
 }
 else
 {
-    Console.WriteLine("НЕТ");
+    Console.WriteLine("не чет");
 }
