@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Roman\\Desktop\\Знакомство с яз.прог\\Examples\\Sem\\Task05\\Task05.csproj": {}
+    "C:\\Users\\Roman\\Desktop\\Знакомство с яз.прог\\Examples\\sem\\Task05\\Task05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Roman\\Desktop\\Знакомство с яз.прог\\Examples\\Sem\\Task05\\Task05.csproj": {
+    "C:\\Users\\Roman\\Desktop\\Знакомство с яз.прог\\Examples\\sem\\Task05\\Task05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Roman\\Desktop\\Знакомство с яз.прог\\Examples\\Sem\\Task05\\Task05.csproj",
+        "projectUniqueName": "C:\\Users\\Roman\\Desktop\\Знакомство с яз.прог\\Examples\\sem\\Task05\\Task05.csproj",
         "projectName": "Task05",
-        "projectPath": "C:\\Users\\Roman\\Desktop\\Знакомство с яз.прог\\Examples\\Sem\\Task05\\Task05.csproj",
+        "projectPath": "C:\\Users\\Roman\\Desktop\\Знакомство с яз.прог\\Examples\\sem\\Task05\\Task05.csproj",
         "packagesPath": "C:\\Users\\Roman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Roman\\Desktop\\Знакомство с яз.прог\\Examples\\Sem\\Task05\\obj\\",
+        "outputPath": "C:\\Users\\Roman\\Desktop\\Знакомство с яз.прог\\Examples\\sem\\Task05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Roman\\AppData\\Roaming\\NuGet\\NuGet.Config"
