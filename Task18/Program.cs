@@ -16,3 +16,32 @@ return "Ошибка ввода координат";
 }
 string result = Quarter (x); //фактические переменные в методе
 Console.WriteLine(result);
+
+// Console.WriteLine("Введите номер четверти от 1 до 4");
+// int x = Convert.ToInt32(Console.ReadLine());
+// switch (x)
+// {
+// case 1: Console.WriteLine("x > 0 и y > 0"); break;
+// case 2: Console.WriteLine("x < 0 и y > 0"); break;
+// case 3: Console.WriteLine("x < 0 и y < 0"); break;
+// case 4: Console.WriteLine("x > 0 и y < 0"); break;
+// default: Console.WriteLine("Нет такой четверти"); break;
+// }
+
+
+// string Quarter(int x, int y)
+// {
+// switch ((x, y))
+// {
+// case ( > 0, > 0):
+// return "Первая четверь";
+// case ( < 0, > 0):
+// return "Вторая четверь";
+// case ( < 0, < 0):
+// return "Третья четверь";
+// case ( > 0, < 0):
+// return "Четвёртая четверь";
+// default:
+// return "Введены некорректные координаты";
+// }
+// }
